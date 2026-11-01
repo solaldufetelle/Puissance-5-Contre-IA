@@ -16,7 +16,7 @@ from ia import HAUTEUR, LARGEUR, ALIGNER, Plateau, choisir_coup
 
 # Temps de réflexion de l'IA par coup, en secondes.
 # Plus c'est grand, plus l'IA voit loin (et plus elle est forte).
-TEMPS_REFLEXION = 3.0
+TEMPS_REFLEXION = 8.0
 
 JAUNE, ROUGE = 1, 2
 NOMS_COULEURS = {JAUNE: "Jaune", ROUGE: "Rouge"}
